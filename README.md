@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cjthedj77
 - 👀 I’m interested in ... 3d printing, laser engraving/cutting and anything  to do with Rc models
-- 🌱 I’m currently learning ... kipper 
+- 🌱 I’m currently learning ... klipper 
 - 💞️ I’m looking to collaborate on ... anycubic kobra 2
 - 📫 How to reach me ... christian.gustar@googlemail.com 
 
